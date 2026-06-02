@@ -9,12 +9,15 @@ hero:
   actions:
     - theme: brand
       text: Bắt đầu ngay
-      link: /tinh-nang-1
+      link: /thiet-lap-tai-khoan
     - theme: alt
       text: Xem mã nguồn (Chỉ dev)
       link: https://github.com/bnam8210/quang_ninh_travel
 
 features:
+  - title: Thiết lập tài khoản
+    details: Các bước đơn giản để bắt đầu hành trình cùng Quảng Ninh Travel.
+    link: /thiet-lap-tai-khoan
   - title: 1. Giới thiệu điểm đến
     details: Bộ lọc thông minh giúp chọn địa điểm phù hợp theo nhu cầu cá nhân.
     link: /tinh-nang-1
@@ -29,5 +32,5 @@ features:
     link: /tinh-nang-4
   - title: 5. Quản lý tài chính
     details: Công cụ chia tiền nhóm và theo dõi chi tiêu minh bạch.
-  - link: /tinh-nang-5
+    link: /tinh-nang-5
 ---

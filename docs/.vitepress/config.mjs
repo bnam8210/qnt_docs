@@ -10,7 +10,13 @@ export default defineConfig({
       { text: 'Tính năng', link: '/tinh-nang-1' }
     ],
 
-    sidebar: [
+sidebar: [
+      {
+        text: 'Bắt đầu',
+        items: [
+          { text: 'Thiết lập tài khoản', link: '/thiet-lap-tai-khoan' }
+        ]
+      },
       {
         text: 'Các tính năng chính',
         items: [

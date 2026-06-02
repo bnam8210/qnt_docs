@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: /qnt_docs/,
   title: "QNT_Documentation",
   description: "Quảng Ninh Travel - Một sản phẩm hỗ trợ cải thiện hệ sinh thái du lịch, tỉnh Quảng Ninh",
   themeConfig: {

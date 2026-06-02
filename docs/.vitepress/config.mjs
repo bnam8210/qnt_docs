@@ -1,29 +1,30 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/qnt_docs/',
   title: "QNT_Documentation",
   description: "Quảng Ninh Travel - Một sản phẩm hỗ trợ cải thiện hệ sinh thái du lịch, tỉnh Quảng Ninh",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Trang chủ', link: '/' },
+      { text: 'Tính năng', link: '/tinh-nang-1' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Các tính năng chính',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '1. Giới thiệu điểm đến', link: '/tinh-nang-1' },
+          { text: '2. Lập lộ trình', link: '/tinh-nang-2' },
+          { text: '3. Đặt dịch vụ', link: '/tinh-nang-3' },
+          { text: '4. Dự báo thời tiết', link: '/tinh-nang-4' },
+          { text: '5. Quản lý tài chính', link: '/tinh-nang-5' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/bnam8210/quang_ninh_travel' }
     ]
   }
 })

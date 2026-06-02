@@ -20,10 +20,14 @@ features:
     link: /tinh-nang-1
   - title: 2. Lập lộ trình
     details: Tạo kế hoạch di chuyển tối ưu dựa trên thời gian và ngân sách.
+    link: /tinh-nang-2
   - title: 3. Đặt dịch vụ
     details: Kết nối đặt vé xe, khách sạn và quản lý đơn hàng tập trung.
+    link: /tinh-nang-3
   - title: 4. Dự báo thời tiết
     details: Cảnh báo thời tiết theo lộ trình để chuyến đi an toàn hơn.
+    link: /tinh-nang-4
   - title: 5. Quản lý tài chính
     details: Công cụ chia tiền nhóm và theo dõi chi tiêu minh bạch.
+  - link: /tinh-nang-5
 ---

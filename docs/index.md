@@ -9,17 +9,21 @@ hero:
   actions:
     - theme: brand
       text: Bắt đầu ngay
-      link: /markdown-examples
+      link: /tinh-nang-1
     - theme: alt
       text: Xem mã nguồn (Chỉ dev)
       link: https://github.com/bnam8210/quang_ninh_travel
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 1. Giới thiệu điểm đến
+    details: Bộ lọc thông minh giúp chọn địa điểm phù hợp theo nhu cầu cá nhân.
+    link: /tinh-nang-1
+  - title: 2. Lập lộ trình
+    details: Tạo kế hoạch di chuyển tối ưu dựa trên thời gian và ngân sách.
+  - title: 3. Đặt dịch vụ
+    details: Kết nối đặt vé xe, khách sạn và quản lý đơn hàng tập trung.
+  - title: 4. Dự báo thời tiết
+    details: Cảnh báo thời tiết theo lộ trình để chuyến đi an toàn hơn.
+  - title: 5. Quản lý tài chính
+    details: Công cụ chia tiền nhóm và theo dõi chi tiêu minh bạch.
 ---
-

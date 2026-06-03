@@ -1,17 +1,23 @@
-# Làm quen với Quảng Ninh Travel
+# Thiết lập tài khoản cá nhân
 
-## Chào mừng bạn!
-Khi mở ứng dụng lần đầu, bạn sẽ thấy logo **Quảng Ninh Travel** xuất hiện nhẹ nhàng. Đây là lúc ứng dụng chuẩn bị sẵn sàng để cùng bạn bắt đầu hành trình khám phá vùng đất di sản.
+Chào mừng bạn đến với Quảng Ninh Travel! Để ứng dụng có thể hỗ trợ tốt nhất trong quá trình khám phá vùng đất di sản, người dùng cần thực hiện thiết lập tài khoản cá nhân.
 
-## 3 Bước nhỏ để hiểu bạn hơn
-Để ứng dụng có thể hỗ trợ bạn tốt nhất, chúng mình chỉ cần bạn chia sẻ một vài thông tin cơ bản:
+## Vai trò của tài khoản
+Tài khoản cá nhân được thiết lập để phục vụ các chức năng chính:
+* **Đồng bộ hóa dữ liệu**: Lưu trữ các địa điểm yêu thích và lộ trình cá nhân trên hệ thống.
+* **Cá nhân hóa gợi ý**: Ứng dụng đưa ra các đề xuất dựa trên sở thích và ngân sách người dùng đã cung cấp.
+* **Quản lý hành trình**: Hỗ trợ tra cứu các dịch vụ đã đặt và theo dõi chi phí thực tế.
 
-1. **Xác thực nhanh**: Đăng nhập bằng số điện thoại hoặc email để bắt đầu.
-2. **Chọn sở thích**: Bạn thích biển xanh hay núi rừng? Việc này giúp chúng mình gợi ý đúng "gu" du lịch của bạn.
-3. **Ngân sách dự kiến**: Cho chúng mình biết mức chi tiêu mong muốn để ứng dụng tìm kiếm các dịch vụ phù hợp nhất với bạn.
+## Hướng dẫn thiết lập
+1. **Đăng nhập**: Sử dụng số điện thoại hoặc email để xác thực tài khoản.
+2. **Cập nhật sở thích**: Chọn các danh mục du lịch quan tâm (VD: Di sản, Ẩm thực, Nghỉ dưỡng).
+3. **Thiết lập ngân sách**: Nhập mức chi tiêu dự kiến để hệ thống lọc các dịch vụ phù hợp trong phạm vi tài chính.
 
-## Tại sao bạn có thể yên tâm?
-* **Thông tin rõ ràng**: Chúng mình chỉ thu thập những thông tin cần thiết để ứng dụng hoạt động hiệu quả cho chuyến đi của bạn.
-* **Sử dụng nội bộ**: Mọi thông tin bạn chia sẻ được dùng để cá nhân hóa trải nghiệm, giúp bạn có những gợi ý du lịch ưng ý nhất.
-* **Quyền riêng tư là ưu tiên**: Chúng mình luôn cố gắng bảo vệ thông tin của bạn một cách cẩn thận nhất trong quá trình phát triển sản phẩm.
-* **Luôn lắng nghe**: Nếu bạn có bất kỳ băn khoăn nào về cách ứng dụng sử dụng dữ liệu, hãy gửi phản hồi cho chúng mình ngay trong phần cài đặt. Chúng mình luôn sẵn sàng giải đáp!
+## Về bảo mật và dữ liệu
+* **Mục đích sử dụng**: Mọi thông tin người dùng cung cấp chỉ được sử dụng để tối ưu hóa tính năng gợi ý du lịch và quản lý lộ trình trên ứng dụng.
+* **Quyền kiểm soát**: Người dùng có quyền truy cập, chỉnh sửa hoặc xóa thông tin cá nhân tại mục **Cài đặt**.
+* **Lưu ý về dữ liệu**: Ứng dụng tuân thủ các nguyên tắc lưu trữ dữ liệu cơ bản. Người dùng nên tự bảo mật thông tin tài khoản cá nhân trong quá trình sử dụng.
+
+::: tip Lưu ý
+Bạn có thể cập nhật lại các thông tin này bất kỳ lúc nào để phản ánh đúng nhu cầu thực tế của từng chuyến đi.
+:::

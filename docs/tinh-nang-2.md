@@ -1,16 +1,21 @@
 # 2. Lập lộ trình du lịch
 
-## Mục tiêu
-Cho phép du khách tự thiết kế lịch trình cá nhân hóa dựa trên thời gian và ngân sách, tối ưu hóa trải nghiệm tham quan tại Quảng Ninh.
+## Tổng quan
+Tính năng "Lập lộ trình" hỗ trợ người dùng xây dựng kế hoạch tham quan chi tiết. Hệ thống giúp sắp xếp các địa điểm và ước tính ngân sách dựa trên nhu cầu cụ thể của từng chuyến đi tại Quảng Ninh.
 
 ## Các chức năng chính
-- **Tạo lộ trình tự động**: Hệ thống gợi ý các điểm đến theo trình tự thời gian hợp lý (sáng - chiều - tối).
-- **Tính toán ngân sách**: Ước tính chi phí di chuyển, ăn uống và lưu trú dựa trên lộ trình đã chọn.
-- **Tùy chỉnh linh hoạt**: Người dùng có thể kéo thả, thêm hoặc bớt các địa điểm tham quan theo ý muốn.
-- **Xuất lịch trình**: Dễ dàng xuất lịch trình ra file PDF hoặc chia sẻ cho bạn bè trong nhóm.
+- **Xây dựng lộ trình**: Hỗ trợ thêm hoặc loại bỏ các địa điểm tham quan vào kế hoạch theo trình tự thời gian (sáng, chiều, tối).
+- **Ước tính ngân sách**: Hệ thống tính toán chi phí dự kiến dựa trên các mục như di chuyển, ăn uống và lưu trú đã được người dùng thiết lập.
+- **Tùy chỉnh kế hoạch**: Cho phép người dùng điều chỉnh thứ tự các điểm đến để phù hợp với thời gian thực tế của chuyến đi.
+- **Quản lý lộ trình**: Lưu trữ thông tin lịch trình để người dùng có thể tra cứu hoặc chia sẻ nội dung trong phạm vi ứng dụng.
 
-## Quy trình thực hiện
-1. **Chọn điểm đến**: Lựa chọn các địa điểm yêu thích.
-2. **Cấu hình thời gian**: Nhập số ngày đi (Ví dụ: 3 ngày 2 đêm).
-3. **Tối ưu hóa**: Hệ thống tính toán quãng đường ngắn nhất.
-4. **Hoàn thiện**: Lưu và chia sẻ lộ trình.
+## Hướng dẫn sử dụng
+1. Chọn các địa điểm tham quan từ danh sách điểm đến.
+2. Thiết lập thời gian dự kiến cho chuyến đi (Ví dụ: 3 ngày 2 đêm).
+3. Sắp xếp thứ tự các điểm đến theo trình tự di chuyển phù hợp.
+4. Xem bảng tổng hợp chi phí dự kiến hệ thống đã ước tính.
+5. Lưu lộ trình để sử dụng trong quá trình tham quan.
+
+## Lưu ý kỹ thuật
+- **Tính toán chi phí**: Các con số về ngân sách là giá trị ước tính dựa trên dữ liệu đầu vào. Chi phí thực tế có thể chênh lệch tùy thuộc vào giá dịch vụ tại thời điểm sử dụng.
+- **Tối ưu hóa**: Lộ trình được sắp xếp dựa trên dữ liệu vị trí cơ bản. Người dùng nên chủ động điều chỉnh theo tình hình giao thông và thời tiết thực tế.

@@ -1,15 +1,21 @@
-# 5. Quản lý tài chính
+# 5. Quản lý tài chính nhóm
 
 ## Tổng quan
-Đi du lịch theo nhóm thường rất vui, nhưng việc chia tiền bạc lại dễ gây "căng thẳng". Tính năng Quản lý tài chính ra đời để giúp mọi thành viên quản lý chi tiêu minh bạch, công bằng và nhanh chóng.
+Tính năng "Quản lý tài chính" cung cấp công cụ hỗ trợ người dùng theo dõi và ghi chép các khoản chi phí phát sinh trong quá trình du lịch theo nhóm. Hệ thống hỗ trợ tính toán và phân bổ chi phí nhằm đảm bảo sự minh bạch trong việc quản lý tài chính tập thể.
 
 ## Các chức năng chính
-- **Ghi chép chi tiêu nhóm**: Dễ dàng nhập các khoản chi (tiền phòng, tiền ăn, vé tham quan) và chọn người đã thanh toán.
-- **Tự động chia tiền**: Hệ thống sẽ tự động tính toán tổng số tiền mỗi người cần đóng hoặc số tiền mỗi người đã chi, từ đó xác định rõ ai còn nợ ai.
-- **Theo dõi ngân sách**: Bạn có thể đặt hạn mức chi tiêu cho chuyến đi và theo dõi xem nhóm đã chi bao nhiêu phần trăm ngân sách.
-- **Báo cáo chi tiết**: Xuất bảng kê chi tiêu cuối chuyến đi để tất cả mọi người cùng kiểm tra, đảm bảo sự minh bạch tuyệt đối.
+- **Ghi chép chi tiêu**: Hỗ trợ nhập các khoản chi phí phát sinh (ví dụ: chi phí lưu trú, ăn uống, tham quan) kèm thông tin người thanh toán.
+- **Tính toán phân bổ**: Hệ thống tự động tính toán tổng chi phí và tổng hợp các khoản phải đóng hoặc phải thu giữa các thành viên trong nhóm dựa trên dữ liệu đã nhập.
+- **Theo dõi ngân sách**: Cho phép người dùng thiết lập hạn mức chi tiêu dự kiến và theo dõi tỷ lệ chi tiêu thực tế so với kế hoạch ban đầu.
+- **Báo cáo chi tiết**: Hỗ trợ tổng hợp dữ liệu chi tiêu để người dùng đối soát thông tin cuối chuyến đi.
 
-## Lợi ích mang lại
-- **Tránh tranh cãi**: Mọi con số đều được ứng dụng tính toán, không lo quên sót hay nhầm lẫn.
-- **Tiết kiệm thời gian**: Thay vì ngồi cộng trừ thủ công, bạn chỉ cần vài giây để cập nhật một khoản chi.
-- **Dễ dàng quản lý**: Giúp chuyến đi của bạn luôn nằm trong tầm kiểm soát tài chính.
+## Hướng dẫn sử dụng
+1. Tạo nhóm du lịch và mời các thành viên tham gia (nếu có tính năng chia sẻ nhóm).
+2. Nhập các khoản chi phí thực tế vào hệ thống ngay khi phát sinh.
+3. Theo dõi bảng tổng hợp chi phí để nắm bắt tình hình tài chính của nhóm.
+4. Kiểm tra báo cáo cuối cùng để thực hiện quyết toán chi phí giữa các thành viên.
+
+## Lưu ý kỹ thuật
+- **Độ chính xác của dữ liệu**: Hệ thống tính toán dựa hoàn toàn trên dữ liệu do người dùng nhập vào. Người dùng cần kiểm tra kỹ thông tin trước khi xác nhận.
+- **Tính chất công cụ**: Đây là công cụ hỗ trợ ghi chép và tính toán. Các tranh chấp về tài chính phát sinh giữa các cá nhân nằm ngoài phạm vi xử lý của ứng dụng.
+- **Bảo mật**: Thông tin chi phí được lưu trữ trong phạm vi nhóm người dùng. Cần đảm bảo quyền truy cập chỉ được cấp cho các thành viên liên quan.
